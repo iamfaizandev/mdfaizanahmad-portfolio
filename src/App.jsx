@@ -1,6 +1,6 @@
 import React from "react";
 import "./index.css";
-import { Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import HomePage from "./component/home/Home";
 import About from "./component/about/About";
 import NavBar from "./component/navbar/Nav";
@@ -12,6 +12,7 @@ const App = () => {
     <>
       <NavBar />
       <div>
+        <BrowserRouter basename="/mdfaizanahmad-portfolio" />
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/About" element={<About />} />
