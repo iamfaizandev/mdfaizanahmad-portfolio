@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8f2ba2f6.css","mappings":"AAAA,eACE,aAAc,CACd,eAAgB,CAChB,iBACF,CCJA,UACE,cACF","sources":["component/home/home.css","component/navbar/nav.css"],"sourcesContent":["header {\r\n  display: block;\r\n  margin-top: 40vh;\r\n  text-align: center;\r\n}\r\n",".nav_icon {\r\n  font-size: 3rem;\r\n}\r\n"],"names":[],"sourceRoot":""}

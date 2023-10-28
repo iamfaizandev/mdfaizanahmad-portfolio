@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iamfaizandev/mdfaizanahmad-portfolio/static/css/main.8f2ba2f6.css",
+    "main.js": "/iamfaizandev/mdfaizanahmad-portfolio/static/js/main.43431072.js",
+    "index.html": "/iamfaizandev/mdfaizanahmad-portfolio/index.html",
+    "main.8f2ba2f6.css.map": "/iamfaizandev/mdfaizanahmad-portfolio/static/css/main.8f2ba2f6.css.map",
+    "main.43431072.js.map": "/iamfaizandev/mdfaizanahmad-portfolio/static/js/main.43431072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f2ba2f6.css",
+    "static/js/main.43431072.js"
+  ]
+}
